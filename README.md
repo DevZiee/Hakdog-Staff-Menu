@@ -1,4 +1,6 @@
 # Hakdog Staff Menu
+
+**[Discord](https://discord.gg/RvXwt4wMVq)**
  
 # License
     Copyright (c) 2022 Collective
